@@ -47,3 +47,43 @@ To run the project locally, follow these steps:
 ```bash
 git clone https://github.com/your-github-username/covid-xray-detection.git
 cd covid-xray-detection
+
+## 📚 Usage
+
+Navigate to your project directory in your terminal.
+
+Run the application using:
+
+python app.py
+
+## 🗂️ Folder Structure
+
+```plaintext
+.
+├── app.py                # Main Flask application script
+├── model.h5              # Trained TensorFlow model
+├── templates/
+│   ├── index.html        # Home page template
+│   └── result.html       # Result page template
+├── static/
+│   ├── styles.css        # CSS styles for application UI
+├── requirements.txt      # Text file listing required Python packages
+└── README.md             # This project description file
+
+
+## Model Training
+
+The application utilizes a Convolutional Neural Network (CNN) trained on a dataset of chest X-ray images. For details on the training process, refer to the separate model training script.
+
+## 📜 License
+
+This project is licensed under the MIT License. You can find the license details in the LICENSE file within the project directory.
+
+## 📞 Contact
+
+For any questions or support, please contact:
+
+Abhinav Kavuluru  
+Email: kavuluruabhinav.28@gmail.com
+
+
