@@ -58,7 +58,7 @@ python app.py
 
 ## 🗂️ Folder Structure
 
-```plaintext
+
 .
 ├── app.py                # Main Flask application script
 ├── model.h5              # Trained TensorFlow model
