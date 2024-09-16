@@ -44,7 +44,7 @@ To run the project locally, follow these steps:
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/your-github-username/covid-xray-detection.git
 cd covid-xray-detection
 
